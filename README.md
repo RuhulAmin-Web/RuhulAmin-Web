@@ -21,6 +21,10 @@
 
 - ⚡ Fun fact **I turn creative ideas into clean, responsive and user-friendly web experiences.**
 
+ ### 📄 My Professional CV
+
+[View My Professional CV (PDF)](https://drive.google.com/file/d/1R4SVTHBtTvoMckDComTzcIFQ6JaFsEnA/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ruhulamin-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruhulamin-web" height="30" width="40" /></a>
